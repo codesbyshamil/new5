@@ -1,2 +1,0 @@
-/**
-* Designer: Muhammed Shamil
